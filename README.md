@@ -20,4 +20,3 @@ Portfolio professionnel statique, bilingue français/anglais, conçu pour être 
 4. Sélectionner `main` et `/ (root)`, puis enregistrer.
 5. Le site sera publié sur `https://rollandmami.github.io/` après quelques minutes.
 
-Aucun framework ni compilation n'est nécessaire.
