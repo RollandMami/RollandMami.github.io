@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://rollandmami.github.io/sitemap.xml
