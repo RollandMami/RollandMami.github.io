@@ -83,3 +83,9 @@ nav.open{display:flex}
 
 .chips span{display:inline-flex;align-items:center;gap:7px;padding:4px 11px 4px 8px}
 .chips .ic{width:16px;height:16px;flex:none}
+
+/* Multi-pages */
+main{min-height:60vh}
+nav a.active{color:var(--text)}
+nav a:not(.cta).active{border-bottom:2px solid var(--cyan);padding-bottom:2px}
+nav .cta.active{box-shadow:0 0 0 3px #4fd8ff33}
