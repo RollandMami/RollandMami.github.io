@@ -83,3 +83,19 @@ nav.open{display:flex}
 
 .chips span{display:inline-flex;align-items:center;gap:7px;padding:4px 11px 4px 8px}
 .chips .ic{width:16px;height:16px;flex:none}
+
+/* Multi-pages */
+nav a.active{color:var(--text)}
+nav a:not(.cta).active{border-bottom:2px solid var(--cyan);padding-bottom:2px}
+nav .cta.active{box-shadow:0 0 0 3px #4fd8ff33}
+
+/* Chaque page remplit exactement la hauteur de l'écran, sans blanc en bas */
+html{background:var(--bg)}
+body{min-height:100vh;min-height:100dvh;display:flex;flex-direction:column}
+main{flex:1;display:flex;flex-direction:column;justify-content:center;width:100%}
+main>*{width:100%}
+.hero{min-height:0;padding-top:24px;padding-bottom:24px}
+.stats{margin-bottom:24px}
+main>.sec{padding-top:40px;padding-bottom:24px}
+.contact{padding-bottom:24px}
+.foot{padding-top:20px;padding-bottom:20px}
