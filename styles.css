@@ -116,3 +116,19 @@ main>.sec{padding-top:40px;padding-bottom:24px}
 .profile dt{color:var(--gold);font-size:.78rem;text-transform:uppercase;letter-spacing:.06em}
 .profile dd{margin:2px 0 0;color:var(--text);font-size:.95rem}
 @media(max-width:860px){.about{grid-template-columns:1fr;gap:28px}.profile{position:static;max-width:340px}}
+
+/* Captures de projets + agrandissement */
+.shots{display:grid;grid-template-columns:repeat(3,1fr);gap:6px;margin:-8px -8px 16px}
+.shot{display:block;border-radius:8px;overflow:hidden;border:1px solid var(--line);cursor:zoom-in;line-height:0;transition:.2s}
+.shot:first-child{grid-column:1/-1}
+.shot img{width:100%;height:auto;aspect-ratio:16/9;object-fit:cover;display:block;transition:transform .3s}
+.shot:hover{border-color:var(--cyan)}
+.shot:hover img{transform:scale(1.03)}
+.lb{position:fixed;inset:0;z-index:50;display:grid;grid-template-rows:1fr auto;place-items:center;gap:10px;padding:16px;background:#030612f2}
+.lb[hidden]{display:none}
+.lb img{max-width:96vw;max-height:calc(100vh - 100px);max-height:calc(100dvh - 100px);width:auto;height:auto;border-radius:6px;background:#fff0}
+.lb p{color:var(--mut);font-size:.9rem;text-align:center;margin:0}
+.lb button{position:absolute;background:var(--panel);border:1px solid var(--line);color:var(--text);border-radius:50%;width:44px;height:44px;font:inherit;font-size:1.3rem;cursor:pointer;line-height:1}
+.lb button:hover{border-color:var(--cyan);color:var(--cyan)}
+.lb .x{top:14px;right:14px}.lb .pv{left:14px;top:50%}.lb .nx{right:14px;top:50%}
+.lb-open{overflow:hidden}
