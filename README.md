@@ -1,4 +1,4 @@
-# RCyber Freelancer — Portfolio
+# Rolland Maminirina Andrianavalona — Développeur Full-Stack (alias RCyber Freelancer)
 
 Portfolio professionnel de **Maminirina Rolland Andrianavalona** : développement logiciel (Python, Django, Flutter), BIM / CAO et gestion de patrimoine immobilier, basé à Antananarivo, Madagascar.
 
@@ -25,7 +25,7 @@ Site statique, multipage et bilingue (français / anglais), hébergé avec GitHu
 - Galerie de captures avec visionneuse plein écran (lightbox) et légendes bilingues.
 - Compétences regroupées par thématique (développement, BTP & BIM, outils) avec barres de progression animées.
 - Formulaire de contact via [Web3Forms](https://web3forms.com/), sans serveur dédié.
-- Métadonnées SEO et Open Graph sur chaque page.
+- SEO : balises title/description uniques, canonical, Open Graph, Twitter Card, données structurées JSON-LD (Person, WebSite, ProfessionalService, BreadcrumbList), `sitemap.xml`, `robots.txt` et page `404.html`.
 - Aucune dépendance de build : HTML, CSS et JavaScript natifs.
 
 ## Structure du dépôt

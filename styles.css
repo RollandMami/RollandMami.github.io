@@ -650,7 +650,8 @@ main>.sec {
     box-shadow: 0 0 30px #4fd8ff33
 }
 
-.profile h3 {
+.profile h3,
+.profile .name {
     margin: 18px 0 12px
 }
 
@@ -793,4 +794,33 @@ main>.sec {
 
 .lb-open {
     overflow: hidden
+}
+
+/* SEO : titre H1 des sous-pages (même rendu que l'ancien H2) + paragraphe d'introduction */
+.page-title {
+    font: 700 clamp(1.6rem, 3vw, 2.2rem)/1.2 'Space Grotesk', sans-serif;
+    margin-bottom: 20px;
+    letter-spacing: -.01em
+}
+
+.intro {
+    color: var(--mut);
+    max-width: 72ch;
+    margin: 0 0 28px
+}
+
+.roles {
+    padding-top: 40px
+}
+
+.roles h2 {
+    margin-bottom: 14px
+}
+
+.roles .chips {
+    margin-top: 18px
+}
+
+.profile .name {
+    font: 700 1.1rem 'Space Grotesk', sans-serif
 }
