@@ -20,8 +20,8 @@
   var f = document.getElementById('contact-form'); if (!f) return;
   var st = f.querySelector('.form-status'), b = f.querySelector('button');
   var T = {
-    fr: { sending: 'Envoi en cours…', ok: 'Message envoyé. Je vous réponds sous 48 h.', invalid: 'Remplissez votre nom, un email valide et votre message.', err: 'Envoi impossible. Écrivez-moi directement à rcyberfreelancermg@gmail.com.' },
-    en: { sending: 'Sending…', ok: 'Message sent. I will reply within 48 hours.', invalid: 'Please enter your name, a valid email and your message.', err: 'Could not send. Please email me directly at rcyberfreelancermg@gmail.com.' }
+    fr: { sending: 'Envoi en cours…', ok: 'Message envoyé. Je vous réponds sous 48 h.', invalid: 'Remplissez votre nom, un email valide et votre message.', err: 'Envoi impossible. Écrivez-moi directement à andrianavalonarolland@gmail.com.' },
+    en: { sending: 'Sending…', ok: 'Message sent. I will reply within 48 hours.', invalid: 'Please enter your name, a valid email and your message.', err: 'Could not send. Please email me directly at andrianavalonarolland@gmail.com.' }
   };
   function say(k, c) { var l = document.documentElement.lang === 'en' ? 'en' : 'fr'; st.textContent = T[l][k]; st.className = 'form-status ' + (c || ''); }
   f.addEventListener('submit', function (e) {

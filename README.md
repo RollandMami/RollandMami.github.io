@@ -73,5 +73,5 @@ Le site est alors accessible sur <http://localhost:8000>.
 
 ## Contact
 
-- E-mail : rcyberfreelancermg@gmail.com
+- E-mail : andrianavalonarolland@gmail.com
 - GitHub : [github.com/RollandMami](https://github.com/RollandMami)
