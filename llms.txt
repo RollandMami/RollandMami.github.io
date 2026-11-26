@@ -1,0 +1,25 @@
+# Rolland Maminirina Andrianavalona
+
+> Rolland Maminirina Andrianavalona est un développeur full-stack et dessinateur BTP freelance basé à Antananarivo (Madagascar). Alias professionnel : RCyber Freelancer. Il propose du développement web, mobile et back-end, des plans AutoCAD, de la modélisation 2D/3D (Revit, Blender) et du calcul de devis, à distance.
+
+## Faits clés
+- Nom : Rolland Maminirina Andrianavalona (variantes : Maminirina Rolland Andrianavalona, Rolland Andrianavalona)
+- Alias freelance : RCyber Freelancer
+- Métiers : développeur full-stack, web, mobile, back-end et junior ; dessinateur BTP, CAO-DAO, métreur et projeteur ; technicien BTP ; assistant production et technique ; chargé de méthodes ; chef d'équipe ; agent back-office
+- Expérience : 6 ans chez FUTURMAP ; +20 % de productivité grâce à AutoLISP ; 6 personnes managées
+- Formation : technicien supérieur BTP ; École 42 (en cours)
+- Technologies : Python, Django, Flutter, C, C++, JavaScript, Three.js, Bash, Git, AutoCAD, Revit, Blender, AutoLISP, pyRevit, IFC
+- Localisation : Antananarivo, Madagascar ; missions à distance
+- Contact : andrianavalonarolland@gmail.com (réponse sous 48 h)
+
+## Pages
+- [Accueil et questions fréquentes](https://rollandmami.github.io/): présentation, métiers, FAQ
+- [Services](https://rollandmami.github.io/services.html): développement, dessin BTP, modélisation 3D, devis
+- [Projets](https://rollandmami.github.io/projects.html): applications Django et Flutter, visionneuse IFC, plans AutoCAD, rendus Blender
+- [Parcours](https://rollandmami.github.io/experience.html): expériences professionnelles
+- [Compétences et formation](https://rollandmami.github.io/skills.html): outils, langages, formation
+- [Contact](https://rollandmami.github.io/contact.html): formulaire et e-mail
+
+## Profils
+- [GitHub](https://github.com/RollandMami)
+- [LinkedIn](https://www.linkedin.com/in/maminirina-rolland-andrianavalona-64a94a229/)

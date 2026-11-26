@@ -824,3 +824,22 @@ main>.sec {
 .profile .name {
     font: 700 1.1rem 'Space Grotesk', sans-serif
 }
+
+.faq {
+    padding-top: 40px
+}
+
+.faq h2 {
+    margin-bottom: 14px
+}
+
+.faq h3 {
+    font: 700 1.05rem 'Space Grotesk', sans-serif;
+    margin: 22px 0 6px
+}
+
+.faq p {
+    color: var(--mut);
+    max-width: 72ch;
+    margin: 0
+}
